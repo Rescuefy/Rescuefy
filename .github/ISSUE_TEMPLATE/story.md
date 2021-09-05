@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Para organizar el proyecto
-title: "[STORY]"
+title: "[Rescuefy - Landing] - Front -"
 labels: enhancement
 assignees: gastonpereyra
 
